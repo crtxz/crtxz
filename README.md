@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crtxz
+- 👋 Hi, I’m @crtxz (Justin)
 - 👀 I’m interested in Technology & IT infrastructure
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on opensource projects

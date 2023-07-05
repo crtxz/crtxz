@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology & IT infrastructure
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me telegram crtxz
+- 📫 How to reach me Twitch crtxz
 
 
 <!---
